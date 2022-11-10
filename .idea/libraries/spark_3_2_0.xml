@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-3.2.0">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../SouceCode/spark-3.2.0-bin-hadoop3.2/examples/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
